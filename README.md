@@ -20,7 +20,7 @@ IIR (Infinite Impulse Response)
 •	More efficient (needs fewer coefficients).
 •	Examples: Butterworth, Chebyshev filters.
 
-
+![image](https://github.com/jahossain/Exercise-10/blob/main/image/Screenshot%202025-09-30%20142614.png)
 
 
 # Exercise-10
